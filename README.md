@@ -18,7 +18,7 @@ An education company named X Education sells online courses to industry professi
 
 ### Details of files given
 
-- Lead Scoring Case Study Aayushi Meenu .ipynb : The python file is showing coding and data analysis
+- Lead Scoring Case Study Sahilg .ipynb : The python file is showing coding and data analysis
 - Assignment Subjective Questions.pdf : Showing Answers to Subjective Questions
 - Lead Score Case Study.pdf : Showing Presentation of Analysis
 - Leads.csv : Data worked on
